@@ -33,16 +33,16 @@ Sistema backend para uma rede social com funcionalidades de usuários, posts, in
 ## 🖼️ API Demonstration / Demonstração da API
 
 ### Health Check
-![Health Check](images/health-check.png)
+![Health Check](https://res.cloudinary.com/dfqbfplrb/image/upload/v1762729707/health-check_xsy0tt.png)
 
 ### Create User / Criar Usuário  
-![Create User](images/create-user.png)
+![Create User](https://res.cloudinary.com/dfqbfplrb/image/upload/v1762729707/create-user_gvsu4y.png)
 
 ### List Users / Listar Usuários
-![List Users](images/list-users.png)
+![List Users](https://res.cloudinary.com/dfqbfplrb/image/upload/v1762729707/list-users_qomclm.png)
 
 ### Search Posts / Buscar Posts
-![Search Posts](images/search-posts.png)
+![Search Posts](https://res.cloudinary.com/dfqbfplrb/image/upload/v1762729707/search-posts_x3n8ii.png)
 
 ## 📡 Main Endpoints / Endpoints Principais
 
